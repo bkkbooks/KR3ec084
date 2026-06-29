@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ec084/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大豆黃卷鑑別法黑豆浸於水中一夜取出後覆以草席放置三四日發芽四五分取出曝於日光中干後有新氣者為上調製法用火將豆加減炒之棄皮與芽用之亦有僅用豆者亦有單用芽者
+  hash: sha256:d0826f0d6a65de33ad7af3b93431c0e5af0ff947811f8bf705c14c7cd0557080
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec084_jc_NaN-d116.h1s1}
+metadata:
+  title: 漢藥良劣鑑別法
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec084.xml
+hash: sha256:35ce696b00b7a37204c98db8aa5a2fe92b8863792d42c587a2a02bb9b2a11fc3

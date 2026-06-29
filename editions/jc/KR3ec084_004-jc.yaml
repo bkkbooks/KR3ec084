@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ec084/jc/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷柏鑑別法帶青味而新者為良調製法水洗去其土氣火後切之
+  hash: sha256:8fa0b1c87b9faac4631cc7e7efb99ed7bce984ec32099d9cfa457c63f5086abd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ec084_jc_NaN-d178.h1s1}
+metadata:
+  title: 漢藥良劣鑑別法
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec084.xml
+hash: sha256:7254b6aafd7aefc4225470a6fbe27c89e992e8556871fc3724e670f414374313
