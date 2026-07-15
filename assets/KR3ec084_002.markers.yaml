@@ -10,6 +10,7 @@ markers:
   - {type: 'tls:seg', offset: 15, content: '', id: KR3ec084_jc_NaN-d116.p2s3}
   - {type: punctuation, offset: 18, content: 。, id: KR3ec084_jc_002-bkkpn2}
   - {type: 'tls:seg', offset: 18, content: '', id: KR3ec084_jc_NaN-d116.p2s4}
+  - {type: substitution, offset: 21, original: 蓆, replacement: 席, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17192}}
   - {type: punctuation, offset: 22, content: 。, id: KR3ec084_jc_002-bkkpn3}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3ec084_jc_NaN-d116.p2s5}
   - {type: punctuation, offset: 27, content: 。, id: KR3ec084_jc_002-bkkpn4}
@@ -32,4 +33,4 @@ markers:
   - {type: punctuation, offset: 76, content: 。, id: KR3ec084_jc_002-bkkpn11}
   - {type: xml-element, offset: 76, content: '', id: KR3ec084_jc_NaN-d116p4_end, name: p, role: close, attrs: {'xml:id': KR3ec084_jc_NaN-d116p4}}
   back: []
-hash: sha256:ec91a0c6b264b33c443fd1a5579d4ef3bfef6f568518d845645ef23addf39508
+hash: sha256:63c4e6b54f9134133a06ebd216b526358897d6ab3a5a95806468e3ebaac0a01c
