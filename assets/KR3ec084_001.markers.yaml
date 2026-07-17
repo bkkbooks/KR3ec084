@@ -1037,8 +1037,10 @@ markers:
   - {type: 'tls:seg', offset: 2581, content: '', id: KR3ec084_jc_000-d25.p4s1}
   - {type: 'tls:seg', offset: 2584, content: '', id: KR3ec084_jc_000-d25.p4s2}
   - {type: punctuation, offset: 2587, content: (, id: KR3ec084_jc_001-bkkpn393}
+  - {type: voice, offset: 2587, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2589, content: ), id: KR3ec084_jc_001-bkkpn394}
   - {type: punctuation, offset: 2590, content: (, id: KR3ec084_jc_001-bkkpn395}
+  - {type: voice, offset: 2590, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2592, content: ), id: KR3ec084_jc_001-bkkpn396}
   - {type: 'tls:seg-start', offset: 2593, content: '', id: KR3ec084_jc_000-d25.p4s3, seg_type: comm, member_ids: [KR3ec084_jc_000-d25.p4s3]}
   - {type: 'tls:seg', offset: 2593, content: '', id: KR3ec084_jc_000-d25.p4s3}
@@ -1410,6 +1412,7 @@ markers:
   - {type: xml-element, offset: 3552, content: '', id: KR3ec084_jc_000-d37p2, name: p, role: open, attrs: {'xml:id': KR3ec084_jc_000-d37p2}}
   - {type: 'tls:seg', offset: 3552, content: '', id: KR3ec084_jc_000-d37.p2s1}
   - {type: punctuation, offset: 3552, content: (, id: KR3ec084_jc_001-bkkpn544}
+  - {type: voice, offset: 3552, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3554, content: ), id: KR3ec084_jc_001-bkkpn545}
   - {type: xml-element, offset: 3554, content: '', id: KR3ec084_jc_000-d37p2_end, name: p, role: close, attrs: {'xml:id': KR3ec084_jc_000-d37p2}}
   - {type: xml-element, offset: 3554, content: '', id: KR3ec084_jc_000-d37p4, name: p, role: open, attrs: {'xml:id': KR3ec084_jc_000-d37p4}}
@@ -4109,4 +4112,4 @@ markers:
   - {type: punctuation, offset: 10457, content: 。, id: KR3ec084_jc_001-bkkpn1622}
   - {type: xml-element, offset: 10457, content: '', id: KR3ec084_jc_000-d115p6_end, name: p, role: close, attrs: {'xml:id': KR3ec084_jc_000-d115p6}}
   back: []
-hash: sha256:37dd47a7ddab911e3aeaa1f5a8b266a0eb4ef104b35c61d8b0f29f7e9b834a51
+hash: sha256:3ffac918402a9ee1c17940fdaee9365376f55dec04016b40eab0e9930794471e
